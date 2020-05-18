@@ -22,7 +22,6 @@
     "require": {
         "php": "^7.2",
         "cviebrock/eloquent-sluggable": "*",
-        "illuminate/database": "6.*",
         "ext-json": "*"
     },
     "require-dev": {
